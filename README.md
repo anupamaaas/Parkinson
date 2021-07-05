@@ -1,4 +1,4 @@
-# Parkinson
+# Parkinson's Disease
 
 The code created using Python on Colaboratory focuses on finding whether an individual suffers from Parkinson's disorder using Artificial Intelligence.
 
